@@ -1,1 +1,2 @@
-ini kode baru
+<?<?php 
+$yield baru ?>
